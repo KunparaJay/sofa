@@ -1,0 +1,57 @@
+.maincontainer
+{
+	width:100%;
+}
+
+.Fiu
+{
+	float:left;
+	background-color:orange;
+	width:60%;
+	height:12vh;
+
+	
+}
+
+body
+{
+ background-color:green;
+}
+
+.a
+{
+	float:right;
+	display:flex;
+	background-color:orange;
+	width:40%;	
+	height:12vh;
+}
+
+.b
+{
+	float:left;
+	width:40%;
+	margin-top:5%;
+	
+}
+
+.C
+{
+	float:right;
+	margin-right:20%;
+	margin-top:5%;	
+	
+}
+
+.Footer
+{	
+	text-align:center;
+
+}
+
+.clear
+{
+	clear:both;
+		
+}
+
